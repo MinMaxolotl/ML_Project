@@ -1,0 +1,11 @@
+_id,artist,song,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+6757c5642c5d5bfa07627c75,Katy Perry,Teenage Dream,0.719,0.798,-4.582,0.0361,0.0162,0.00000234,0.134,0.591,120.011
+6757c5642c5d5bfa076279f7,The Shapeshifters,Lola's Theme - Radio Edit,0.748,0.845,-4.612,0.0536,0.00083,0.000225,0.068,0.659,123.925
+6757c5642c5d5bfa076278ba,Mariah Carey,Loverboy,0.721,0.79,-4.125,0.124,0.183,0,0.1,0.821,103.141
+6757c5642c5d5bfa07627b23,Daughtry,It's Not Over,0.45,0.921,-3.476,0.0538,0.0467,0,0.311,0.413,145.959
+6757c5642c5d5bfa07627f90,Bruno Mars,Finesse - Remix; feat. Cardi B,0.704,0.859,-4.877,0.0996,0.0185,0,0.0215,0.926,105.115
+6757c5642c5d5bfa07627cd8,Blake Shelton,Honey Bee,0.481,0.849,-5.131,0.0385,0.00167,0.00000149,0.121,0.723,205.57
+6757c5642c5d5bfa07627baf,Coldplay,Violet Hill,0.33,0.58,-7.875,0.0374,0.0614,0.00129,0.115,0.11,76.093
+6757c5642c5d5bfa07627d12,Calvin Harris,Feel So Close - Radio Edit,0.707,0.924,-2.842,0.031,0.000972,0.00703,0.204,0.919,127.937
+6757c5642c5d5bfa07627d3b,Carrie Underwood,Blown Away,0.531,0.843,-2.569,0.0429,0.0909,0,0.0283,0.392,136.991
+6757c5642c5d5bfa07627e5e,Meek Mill,All Eyes on You (feat. Chris Brown & Nicki Minaj),0.589,0.658,-5.288,0.203,0.0242,0,0.118,0.251,77.521
